@@ -1,1 +1,25 @@
+* {
+    font-family: poppins;
+}
+.header {
+    display: flex;
+    height: 40px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    background-color: rgb(245, 56, 56);;
+}
 
+.header > p {
+    margin: auto;
+    color: white;
+}
+
+.main {
+    display: flex;
+}
+
+.img {
+    height:450px;
+    width:250px;
+    border-radius:25px;
+    padding: 15px;
+}
